@@ -1,6 +1,6 @@
 # design-patterns
 
-Design patterns included in this repo:
+Design patterns included in this repository:
 1. Singleton
 2. Factory design pattern
 3. Builder design pattern
